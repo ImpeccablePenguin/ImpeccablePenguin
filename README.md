@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ImpeccablePenguin
 - 👀 I’m interested in Open-Source
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: campfire messages in binary
+- 🌱 I’m currently learning PCB boards
+- 📫 How to reach me: sina toki en mi kute
