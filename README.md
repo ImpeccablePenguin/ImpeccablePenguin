@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ImpeccablePenguin
 - 👀 I’m interested in Open-Source
 - 🌱 I’m currently learning Computer Science in University
-- 📫 How to reach me: consider shooting me a dm on discord. ImpeccablePenguin#8404
+- 📫 How to reach me: consider shooting me a dm on Matrix. @icpn:matrix.org
